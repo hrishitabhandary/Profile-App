@@ -54,7 +54,7 @@ const ViewAllProfiles = () => {
                                         {d.name}
                                     </p>
                                     <p>{d.description}</p>
-                                    <button className="bg-indigo-500 text-white text-lg px-6 py-1 rounded-xl" onClick={() => handleDelete(d.id)} >
+                                    <button className="bg-indigo-500 text-white text-lg px-6 py-1 rounded-xl -mt-4" onClick={() => handleDelete(d.id)} >
                                         Delete Profile
                                     </button>
                                 </div>

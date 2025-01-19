@@ -69,7 +69,7 @@ const ViewAllProfiles = () => {
                   <p className="text-xl font-semibold">{d.name}</p>
                   <p>{d.description}</p>
                   <button
-                    className="bg-indigo-500 text-white text-lg px-6 py-1 rounded-xl"
+                    className="bg-indigo-500 text-white text-lg px-6 py-1 rounded-xl -mt-4"
                     onClick={() => handleReadMore(d.id)}
                   >
                     Read More
