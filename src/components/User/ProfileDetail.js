@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import { data } from "./UserDashboard"; // Importing the profile data
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
-import L from "leaflet"; // For Leaflet map customizations
+
 
 // Default coordinates for fallback location
 const defaultCoords = [51.505, -0.09]; // Default location (London)

@@ -1,7 +1,6 @@
 import "bootstrap/dist/css/bootstrap.min.css"; // Ensure Bootstrap is imported
 import "../Admin/AdminDashboard.css"; // Assuming you want to add the styles in this file
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
-import L from "leaflet";
 import "leaflet/dist/leaflet.css";
 import React, { useState } from "react";
 import { useNavigate } from 'react-router-dom'; // Import useNavigate
