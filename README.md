@@ -18,7 +18,10 @@ cd <project_directory>
 
 Then, install the required dependencies:
 ```bash
-npm install
+npm install react react-dom react-router-dom leaflet react-leaflet react-slick slick-carousel
+```
+```bash
+npm install -D tailwindcss postcss autoprefixer
 ```
 
 ### 3. Start the project
