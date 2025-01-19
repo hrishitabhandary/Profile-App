@@ -1,8 +1,4 @@
 ```markdown
-Here’s a suitable description for your profile app:
-
----
-
 **Profile Web Application**
 
 This web application allows users and administrators to manage and view profiles. Users can browse through profiles, read detailed information, and use a map integration to view locations. The search and filter functionalities make it easy to find profiles based on various criteria, including name, location, and description.
