@@ -3,7 +3,7 @@
 
 ## Getting Started
 
-### 1. Clone the repository
+### **1. Clone the repository**
 Clone the repository to your local machine:
 ```bash
 git clone <repository_url>
