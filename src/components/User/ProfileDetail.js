@@ -38,34 +38,8 @@ const ProfileDetail = () => {
   };
 
   const coordinates = getCoordinatesFromAddress(address);
-  //  return (
-  //   <div className="profile-detail-container">
-  //     <div className="profile-detail">
-  //       {/* Profile Header */}
-  //       <div className="profile-header">
-  //         <img src={img} alt={name} className="profile-img" />
-  //         <h2>{name}</h2>
-  //         <p>{description}</p>
-  //       </div>
-  
-  //       {/* Address and Map */}
-  //       <div className="map-container">
-  //         <h3>Address: {address}</h3>
-  
-  //         {/* OpenStreetMap via Leaflet */}
-  //         <MapContainer center={coordinates} zoom={13} style={{ height: "300px", width: "100%" }}>
-  //           <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
-  //           <Marker position={coordinates}>
-  //             <Popup>{address}</Popup>
-  //           </Marker>
-  //         </MapContainer>
-  //       </div>
-  //     </div>
-  //   </div>
-  // );
   return (
-
-    <div className="profile-detail-container">
+   <div className="profile-detail-container">
       <div className="flex justify-center items-center min-h-screen  bg-white py-6" >
       <div className="bg-white rounded-lg shadow-lg w-full max-w-lg p-6 text-center">
         {/* Profile Header */}
