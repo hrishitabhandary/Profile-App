@@ -1,6 +1,6 @@
 **Profile Web Application**
 
-This web application allows users and administrators to manage and view profiles. Users can browse through profiles, read detailed information, and use a map integration to view locations. The search and filter functionalities make it easy to find profiles based on various criteria, including name, location, and description.
+This web application allows users and administrator(admin) to manage and view profiles. Users can browse through profiles, read detailed information, and use a map integration to view locations. The search and filter functionalities make it easy to find profiles based on various criteria, including name, location, and description.
 
 For administrators, the application offers features to view, delete, and add profiles. The admin section currently lacks the ability to add new profiles (due to a technical issue with the "Add Profile" button) and does not yet support editing profiles. However, the application is designed with a user-friendly interface using modern technologies like React.js, Bootstrap, and OpenStreetMap for map integration.
 
