@@ -2,11 +2,11 @@
 #Profile-App
 
 ## Getting Started
-
-### **1. Clone the repository**
-Clone the repository to your local machine:
+```
+### 1. Clone the repository
+To run the project in development mode:
 ```bash
-git clone <repository_url>
+npm start
 ```
 
 ### 2. Install dependencies
