@@ -17,9 +17,11 @@ cd <project_directory>
 ```
 
 Then, install the required dependencies:
+The first command installs runtime dependencies (like react, react-dom, react-router-dom, leaflet, etc.).
 ```bash
 npm install react react-dom react-router-dom leaflet react-leaflet react-slick slick-carousel
 ```
+The second command installs development dependencies (like tailwindcss, postcss, and autoprefixer).
 ```bash
 npm install -D tailwindcss postcss autoprefixer
 ```
