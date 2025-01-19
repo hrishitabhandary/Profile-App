@@ -40,8 +40,8 @@ The application will start running on `http://localhost:3000`.
    - **Email**: user1@example.com
    - **Password**: user@123
 2. **User 2**:
-   - **Email**: user2@456
-   - **Password**: user@123
+   - **Email**: user2@example.com
+   - **Password**: user@456
 
 ## Features
 
