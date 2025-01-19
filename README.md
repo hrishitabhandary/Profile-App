@@ -7,7 +7,7 @@ For the administrator(admin), the application offers features to view, delete, a
 ### 1. Clone the repository
 To run the project in development mode:
 ```bash
-npm start
+git clone <repository_url>
 ```
 
 ### 2. Install dependencies
