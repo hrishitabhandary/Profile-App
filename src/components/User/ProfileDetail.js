@@ -74,6 +74,7 @@ const ProfileDetail = () => {
             src={img}
             alt={name}
             className="w-32 h-32 rounded-full mx-auto border-4 border-indigo-500 object-cover"
+            loading="lazy"
           />
           <h2 className="text-2xl font-semibold mt-4">{name}</h2>
           <p className="text-gray-600">{description}</p>

@@ -62,6 +62,7 @@ const ViewAllProfiles = () => {
                     src={d.img}
                     alt={d.name}
                     className="h-44 w-44 rounded-full"
+                    loading="lazy"
                   />
                 </div>
                 <div className="flex flex-col justify-center items-center gap-4 p-4">
