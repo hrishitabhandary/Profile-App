@@ -38,15 +38,15 @@ The application will start running on `http://localhost:3000`.
 
 ### Admin Login:
 - **Email**: admin@example.com
-- **Password**: admin@123
+- **Password**: admin123
 
 ### User Login:
 1. **User 1**:
    - **Email**: user1@example.com
-   - **Password**: user@123
+   - **Password**: user123
 2. **User 2**:
    - **Email**: user2@example.com
-   - **Password**: user@456
+   - **Password**: user456
 
 ## Features
 
